@@ -1,4 +1,4 @@
-def add(num1,num2):
+def add(n1,n2):
 	return num1+num2
 
 def mul(n1,n2):
