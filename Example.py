@@ -7,6 +7,9 @@ def func2():
 def new_func():
 	print("added new fucntion to test the branch concept")
 
+def func3():
+	print("added func3() to test the recursive merging")
+	
 func()
 func2()
 new_func()
